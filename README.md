@@ -1,2 +1,3 @@
 # fidocom
-Placeholder repo for the fidocom project
+
+Placeholder package. The `fidocom` name is reserved for a future project.
